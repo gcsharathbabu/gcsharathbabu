@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **gcsharathbabu@gmail.com**
 
+- Checkout my web3 profile **https://debank.com/profile/0x8b40f191015d205f4acfda1861d4cf17794ba245**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gcsharathbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gcsharathbabu" height="30" width="40" /></a>
