@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Building systems at scale @frontier.xyz**
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **RUST**,  **DART**
 
 - 💬 Ask me about **Blockchain information retrieval & processing**
 
